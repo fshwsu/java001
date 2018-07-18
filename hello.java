@@ -1,5 +1,11 @@
 package com.fsh.pojo;
 //=====================================
+
+
+/**
+ *---------------------------------------
+ *
+ */
 import java.util.Date;
 
 public class Goods {
