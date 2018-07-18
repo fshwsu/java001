@@ -12,6 +12,8 @@ import com.fsh.pojo.NewStudent;
 import com.fsh.pojo.ScoreResult;
 import com.fsh.service.StuService;
 
+//==============================================================
+
 @Controller
 public class StuController {
 	
